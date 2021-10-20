@@ -1,0 +1,8 @@
+{
+	"examples": [
+		{
+			"input": [{"content":["Anne", 123.4, "apple.bar"],"header":["name", "no_nans", "stats3"]}], 
+			"output":{"content":["Anne", 123.4],"header":["name", "no_nans"]}}
+	], 
+	"name": "e12"
+}
